@@ -5,5 +5,5 @@
 	path = day01
 	url = ./day01
 [submodule "2408-FTB-ET-WEB-FT"]
-	path = 2408-FTB-ET-WEB-FT
+	path = classnotes
 	url = git@github.com:FullstackAcademy/2408-FTB-ET-WEB-FT.git
